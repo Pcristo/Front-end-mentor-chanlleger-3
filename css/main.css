@@ -29,14 +29,18 @@ body{
 }
 
 .card{
-    background: var(--Very-light-gray-background-headings-buttons);
     width: 100%; 
     height: 100vh;
+    
+    
+    
 }
 
 .container{
-    padding: 25px;
+    padding: 70px;
+    background: var(--Very-light-gray-background-headings-buttons);
     margin-top: 100px;
+    box-shadow: rgb(1 1 1 / 50%) 1px 1px 10px 1px;
 
 }
 
