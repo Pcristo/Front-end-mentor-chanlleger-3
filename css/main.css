@@ -66,6 +66,7 @@ body{
 .col-md-4 p{
     color: var(--Transparent-white-paragraphs);
     margin-bottom: 80px;
+    height: 100px;
     
 }
 
